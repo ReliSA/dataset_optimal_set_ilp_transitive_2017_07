@@ -7,3 +7,6 @@ data/complex-1a/carpark-1.0.0.jar filter=lfs diff=lfs merge=lfs -text
 data/complex-1a/slf4j-api-1.7.22.jar filter=lfs diff=lfs merge=lfs -text
 data/complex-1a/statsbase-1.1.0.jar filter=lfs diff=lfs merge=lfs -text
 data/complex-1b/org.osgi.core-4.2.0.jar filter=lfs diff=lfs merge=lfs -text
+data/complex-2/slf4j-api-1.7.25.jar filter=lfs diff=lfs merge=lfs -text
+data/complex-2/slf4j-simple-1.7.25.jar filter=lfs diff=lfs merge=lfs -text
+data/complex-2/carpark-2.0.0.jar filter=lfs diff=lfs merge=lfs -text
