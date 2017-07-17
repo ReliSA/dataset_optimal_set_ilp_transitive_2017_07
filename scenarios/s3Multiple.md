@@ -1,4 +1,4 @@
-# Scenario S1 Void
+# Scenario S3 Multiple
 
 All requirements satisfied by a set of components without transitive dependencies.
 
