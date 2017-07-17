@@ -21,7 +21,7 @@ Scenarios S4 - S6 cover transitive closure functionality.
 **Main Provider** - component satisfying the requested requirement set (or its part).  
 **Transitive Dependency** - component satisfying requirements of a **main provider**.
 
-1. **S1 Void** - no requirements satisfied by repository components
+1. **S1 Void** - no requirements satisfied by components inside repository
     * empty result
     * no cost-based selection
 1. **S2 Single** - all requirements satisfied by single component without transitive dependencies
