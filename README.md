@@ -32,13 +32,13 @@ Scenarios S4 - S6 cover transitive closure functionality.
     * multiple components returned
     * cost-based selection
     * repository contains multiple viable candidates
-1. **S4 Void Transitive** - all requirements are satisfied by a component with transitive dependency,
-but the dependency is missing.
+1. **S4 Void Transitive** - all requirements are satisfied by a component with transitive dependencies,
+but one of the dependencies is missing.
     * empty result
     * repository contains single viable candidate, but no transitive providers
-1.  **S5 Single Transitive** - all requirements are satisfied by a single component with single transitive
- dependency.
-    * two components returned - main provider with is dependency
+1.  **S5 Single Transitive** - all requirements are satisfied by a single component with transitive
+ dependencies.
+    * multiple components returned - main provider with its dependencies
     * cost-based selection
     * repository contains multiple viable candidates for both main provider and its transitive dependency
 1. **S6 Multiple Transitive** - all requirements satisfied by a set of components with own transitive dependencies
