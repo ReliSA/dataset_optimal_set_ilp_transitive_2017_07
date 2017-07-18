@@ -15,7 +15,7 @@ All requirements satisfied by a set of components without transitive dependencie
 
 ## Repository Contains
 
-* all 5 simple components from /data folder
+* all components from **/data/simple/out** folder
 
 ## Query
 

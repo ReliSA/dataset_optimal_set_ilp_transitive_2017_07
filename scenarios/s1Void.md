@@ -15,7 +15,7 @@ No requirements satisfied by components inside repository.
 
 ## Repository Contains
 
-* all 5 simple components from /data folder
+* all components from **/data/simple/out** folder
 
 ## Query
 
